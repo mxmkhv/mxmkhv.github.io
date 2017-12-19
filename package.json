@@ -11,7 +11,11 @@
     "barba.js": "^1.0.0",
     "browser-sync": "^2.18.13",
     "cssnano": "^3.10.0",
+    "del": "^3.0.0",
+    "font-store": "^1.1.2",
+    "gsap": "^1.20.3",
     "gulp": "^3.9.1",
+    "gulp-compile-handlebars": "^0.6.1",
     "gulp-concat": "^2.6.1",
     "gulp-htmlmin": "^3.0.0",
     "gulp-postcss": "^7.0.0",
@@ -19,5 +23,7 @@
     "gulp-uglify": "^3.0.0",
     "imagemin": "^5.3.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@material/typography": "^0.3.0"
+  }
 }
