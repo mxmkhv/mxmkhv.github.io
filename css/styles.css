@@ -206,6 +206,10 @@
   box-sizing: border-box;
   font-family: "Roboto", Serif; }
 
+body, html {
+  height: 100%;
+  width: 100%; }
+
 .blocker {
   position: fixed;
   top: 0;
