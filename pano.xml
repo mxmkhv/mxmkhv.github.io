@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" apprev="17253" appversion="6.0.2">
+  <panorama id="node1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" leveltilesize="510" height="1800" width="1800" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level preload="0" height="1800" width="1800" predecode="0"/>
+      <level preload="0" height="900" width="900" predecode="0"/>
+      <level preload="1" height="450" width="450" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-198.16">
+      <start projection="4" fov="70" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovfisheye="360" tilt="90" pan="360" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata comment="" tags="01 - Stage Back 360" datetime="" title="Stage Back" description="" source="" longitude="24.74849985" copyright="" author="" info="" customnodeid="" latitude="42.14531421"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundcolor="0xffffff" background="1" enabled="1" height="20" bordercolor="0x000000" backgroundalpha="1" width="180" borderalpha="1" textalpha="1" textcolor="0x000000" wordwrap="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot skinid="ht_node" id="Point02" title="Stage Mid" description="" tilt="-20.52" target="0.0/0.0/70.0" url="{node2}" pan="-359.4"/>
+      <hotspot skinid="ht_node" id="Point03" title="Stage Front" description="" tilt="-11.22" target="" url="{node3}" pan="-359.36"/>
+      <hotspot skinid="ht_node" id="Point04" title="Hall Left" description="" tilt="-3.02" target="-164.0/-4.2/70.0" url="{node5}" pan="-16.7"/>
+      <hotspot skinid="ht_node" id="Point05" title="Hall Right" description="" tilt="-3.02" target="174.3/-3.8/70.0" url="{node6}" pan="-341.64"/>
+      <hotspot skinid="ht_node" id="Point06" title="Hall Mid" description="" tilt="-3.16" target="-178.3/-6.9/70.0" url="{node4}" pan="-359.34"/>
+      <hotspot skinid="ht_node" id="Point01" title="Side Balcony" description="" tilt="10.32" target="-173.3/-5.7/70.0" url="{node7}" pan="-21.81"/>
+      <hotspot skinid="ht_node" id="Point07" title="Balocny Mid" description="" tilt="6.86" target="178.7/-7.0/70.0" url="{node8}" pan="-359.36"/>
+      <hotspot skinid="ht_node" id="Point08" title="Balcony Right" description="" tilt="7.08" target="-177.1/-8.5/70.0" url="{node9}" pan="-343.14"/>
+      <hotspot skinid="ht_node" id="Point09" title="Balcony Left" description="" tilt="7.13" target="-179.7/-6.9/70.0" url="{node10}" pan="-13.98"/>
+      <hotspot skinid="ht_node" id="Point10" title="Balcony Top" description="" tilt="9.49" target="179.5/-0.3/70.0" url="{node11}" pan="-359.33"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" zoomin="0" zoomout="0" zoomspeed="2" zoomfov="20" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" invertwheel="0" contextprojections="0" hideabout="0" simulatemass="1" sensitivity="8" lockedmouse="0" contextfullscreen="1" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" leveltilesize="510" height="1800" width="1800" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level preload="0" height="1800" width="1800" predecode="0"/>
+      <level preload="0" height="900" width="900" predecode="0"/>
+      <level preload="1" height="450" width="450" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-198.16">
+      <start projection="4" fov="70" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovfisheye="360" tilt="90" pan="360" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata comment="" tags="02 - Stage Mid 360" datetime="" title="Stage Mid" description="" source="" longitude="24.74850890" copyright="" author="" info="" customnodeid="" latitude="42.14530028"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundcolor="0xffffff" background="1" enabled="1" height="20" bordercolor="0x000000" backgroundalpha="1" width="180" borderalpha="1" textalpha="1" textcolor="0x000000" wordwrap="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot skinid="ht_node" id="Point01" title="Stage Front" description="" tilt="-22.48" target="" url="{node3}" pan="-359.62"/>
+      <hotspot skinid="ht_node" id="Point02" title="Stage Back" description="" tilt="-20.07" target="-178.4/-6.3/70.0" url="{node1}" pan="-180.2"/>
+      <hotspot skinid="ht_node" id="Point03" title="Hall Mid" description="" tilt="-3.59" target="-178.8/-7.3/70.0" url="{node4}" pan="-359.67"/>
+      <hotspot skinid="ht_node" id="Point04" title="Hall Left" description="" tilt="-3.37" target="-171.4/-2.7/70.0" url="{node5}" pan="-19.96"/>
+      <hotspot skinid="ht_node" id="Point05" title="Hall Right" description="" tilt="-3.5" target="177.4/-6.5/70.0" url="{node6}" pan="-339.01"/>
+      <hotspot skinid="ht_node" id="Point06" title="Side Balcony" description="" tilt="13.42" target="176.9/-1.0/70.0" url="{node7}" pan="-29.8"/>
+      <hotspot skinid="ht_node" id="Point07" title="Balocny Mid" description="" tilt="8.55" target="178.3/-5.6/70.0" url="{node8}" pan="-359.67"/>
+      <hotspot skinid="ht_node" id="Point08" title="Balcony Right" description="" tilt="8.62" target="-176.5/-7.5/70.0" url="{node9}" pan="-341.11"/>
+      <hotspot skinid="ht_node" id="Point09" title="Balcony Left" description="" tilt="8.78" target="179.1/-6.6/70.0" url="{node10}" pan="-17.48"/>
+      <hotspot skinid="ht_node" id="Point10" title="Balcony Top" description="" tilt="11.73" target="-180.0/-4.1/70.0" url="{node11}" pan="0.33"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" zoomin="0" zoomout="0" zoomspeed="2" zoomfov="20" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" invertwheel="0" contextprojections="0" hideabout="0" simulatemass="1" sensitivity="8" lockedmouse="0" contextfullscreen="1" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" leveltilesize="510" height="1800" width="1800" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level preload="0" height="1800" width="1800" predecode="0"/>
+      <level preload="0" height="900" width="900" predecode="0"/>
+      <level preload="1" height="450" width="450" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-198.16">
+      <start projection="4" fov="70" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovfisheye="360" tilt="90" pan="360" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata comment="" tags="03 - Stage Front 360" datetime="" title="Stage Front" description="" source="" longitude="24.74851795" copyright="" author="" info="" customnodeid="" latitude="42.14528562"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundcolor="0xffffff" background="1" enabled="1" height="20" bordercolor="0x000000" backgroundalpha="1" width="180" borderalpha="1" textalpha="1" textcolor="0x000000" wordwrap="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot skinid="ht_node" id="Point01" title="Hall Mid" description="" tilt="-4.82" target="-178.8/-6.5/70.0" url="{node4}" pan="0.02"/>
+      <hotspot skinid="ht_node" id="Point02" title="Hall Left" description="" tilt="-4.47" target="-176.5/-0.3/70.0" url="{node5}" pan="-26.25"/>
+      <hotspot skinid="ht_node" id="Point03" title="Hall Right" description="" tilt="-4.32" target="-176.4/-0.8/70.0" url="{node6}" pan="-332.54"/>
+      <hotspot skinid="ht_node" id="Point04" title="Side Balcony" description="" tilt="17.81" target="172.8/-1.1/70.0" url="{node7}" pan="-40.21"/>
+      <hotspot skinid="ht_node" id="Point05" title="Stage Back" description="" tilt="-11.27" target="179.7/-2.1/70.0" url="{node1}" pan="-180.47"/>
+      <hotspot skinid="ht_node" id="Point06" title="Stage Mid" description="" tilt="-21.79" target="179.7/0.3/70.0" url="{node2}" pan="-180.83"/>
+      <hotspot skinid="ht_node" id="Point07" title="Balocny Mid" description="" tilt="10.78" target="177.7/-6.2/70.0" url="{node8}" pan="-359.94"/>
+      <hotspot skinid="ht_node" id="Point08" title="Balcony Right" description="" tilt="10.64" target="-179.0/-2.7/70.0" url="{node9}" pan="-338.05"/>
+      <hotspot skinid="ht_node" id="Point09" title="Balcony Left" description="" tilt="10.56" target="-179.2/-2.6/70.0" url="{node10}" pan="-21.87"/>
+      <hotspot skinid="ht_node" id="Point10" title="Balcony Top" description="" tilt="13.87" target="-179.6/-1.3/70.0" url="{node11}" pan="-360"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" zoomin="0" zoomout="0" zoomspeed="2" zoomfov="20" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" invertwheel="0" contextprojections="0" hideabout="0" simulatemass="1" sensitivity="8" lockedmouse="0" contextfullscreen="1" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" leveltilesize="510" height="1800" width="1800" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level preload="0" height="1800" width="1800" predecode="0"/>
+      <level preload="0" height="900" width="900" predecode="0"/>
+      <level preload="1" height="450" width="450" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-19">
+      <start projection="4" fov="70" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovfisheye="360" tilt="90" pan="360" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata comment="" tags="04 - Hall Mid 360" datetime="" title="Hall Mid" description="" source="" longitude="24.74854208" copyright="" author="" info="" customnodeid="" latitude="42.14523714"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundcolor="0xffffff" background="1" enabled="1" height="20" bordercolor="0x000000" backgroundalpha="1" width="180" borderalpha="1" textalpha="1" textcolor="0x000000" wordwrap="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot skinid="ht_node" id="Point01" title="Hall Left" description="" tilt="-0.68" target="111.5/-4.0/70.0" url="{node5}" pan="-275.72"/>
+      <hotspot skinid="ht_node" id="Point02" title="Hall Right" description="" tilt="-1.2" target="-105.3/-4.0/70.0" url="{node6}" pan="-83.61"/>
+      <hotspot skinid="ht_node" id="Point03" title="Side Balcony" description="" tilt="29.01" target="115.1/-9.0/70.0" url="{node7}" pan="-289.94"/>
+      <hotspot skinid="ht_node" id="Point04" title="Stage Back" description="" tilt="-2.76" target="-179.7/-4.0/70.0" url="{node1}" pan="-0.28"/>
+      <hotspot skinid="ht_node" id="Point05" title="Stage Mid" description="" tilt="-4.7" target="179.7/-1.4/70.0" url="{node2}" pan="-0.29"/>
+      <hotspot skinid="ht_node" id="Point06" title="Stage Front" description="" tilt="-6.77" target="179.4/-0.1/70.0" url="{node3}" pan="-0.29"/>
+      <hotspot skinid="ht_node" id="Point07" title="Balocny Mid" description="" tilt="37.17" target="178.4/1.2/70.0" url="{node8}" pan="-177.93"/>
+      <hotspot skinid="ht_node" id="Point08" title="Balcony Right" description="" tilt="25.61" target="-131.1/-3.4/70.0" url="{node9}" pan="-122.67"/>
+      <hotspot skinid="ht_node" id="Point09" title="Balcony Left" description="" tilt="26.94" target="136.2/-4.2/70.0" url="{node10}" pan="-236.03"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" zoomin="0" zoomout="0" zoomspeed="2" zoomfov="20" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" invertwheel="0" contextprojections="0" hideabout="0" simulatemass="1" sensitivity="8" lockedmouse="0" contextfullscreen="1" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" leveltilesize="510" height="1800" width="1800" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level preload="0" height="1800" width="1800" predecode="0"/>
+      <level preload="0" height="900" width="900" predecode="0"/>
+      <level preload="1" height="450" width="450" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="15">
+      <start projection="4" fov="70" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovfisheye="360" tilt="90" pan="360" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata comment="" tags="05 - Hall Mid Left 360" datetime="" title="Hall Left" description="" source="" longitude="24.74848777" copyright="" author="" info="" customnodeid="" latitude="42.14522521"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundcolor="0xffffff" background="1" enabled="1" height="20" bordercolor="0x000000" backgroundalpha="1" width="180" borderalpha="1" textalpha="1" textcolor="0x000000" wordwrap="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot skinid="ht_node" id="Point01" title="Stage Back" description="" tilt="-2.41" target="-179.3/-7.9/70.0" url="{node1}" pan="-349.48"/>
+      <hotspot skinid="ht_node" id="Point02" title="Stage Mid" description="" tilt="-3.49" target="179.8/0.2/70.0" url="{node2}" pan="-354.96"/>
+      <hotspot skinid="ht_node" id="Point03" title="Stage Front" description="" tilt="-4.53" target="179.1/-1.8/70.0" url="{node3}" pan="-0.54"/>
+      <hotspot skinid="ht_node" id="Point04" title="Balocny Mid" description="" tilt="24.03" target="-132.4/-4.5/70.0" url="{node8}" pan="-105.89"/>
+      <hotspot skinid="ht_node" id="Point05" title="Balcony Right" description="" tilt="15.3" target="-108.1/-1.9/70.0" url="{node9}" pan="-84.52"/>
+      <hotspot skinid="ht_node" id="Point06" title="Balcony Left" description="" tilt="38.28" target="-178.3/-4.9/70.0" url="{node10}" pan="-158.84"/>
+      <hotspot skinid="ht_node" id="Point07" title="Hall Right" description="" tilt="-1.11" target="-112.3/-0.8/70.0" url="{node6}" pan="-64.31"/>
+      <hotspot skinid="ht_node" id="Point08" title="Hall Mid" description="" tilt="-1.88" target="-100.6/-3.5/70.0" url="{node4}" pan="-69.33"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" zoomin="0" zoomout="0" zoomspeed="2" zoomfov="20" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" invertwheel="0" contextprojections="0" hideabout="0" simulatemass="1" sensitivity="8" lockedmouse="0" contextfullscreen="1" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" leveltilesize="510" height="1800" width="1800" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level preload="0" height="1800" width="1800" predecode="0"/>
+      <level preload="0" height="900" width="900" predecode="0"/>
+      <level preload="1" height="450" width="450" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-50.16">
+      <start projection="4" fov="70" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovfisheye="360" tilt="90" pan="360" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata comment="" tags="06 - Hall Mid Right 360" datetime="" title="Hall Right" description="" source="" longitude="24.74859774" copyright="" author="" info="" customnodeid="" latitude="42.14524610"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundcolor="0xffffff" background="1" enabled="1" height="20" bordercolor="0x000000" backgroundalpha="1" width="180" borderalpha="1" textalpha="1" textcolor="0x000000" wordwrap="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot skinid="ht_node" id="Point01" title="Hall Mid" description="" tilt="-1.25" target="101.1/0.9/70.0" url="{node4}" pan="-286.35"/>
+      <hotspot skinid="ht_node" id="Point02" title="Hall Left" description="" tilt="-0.03" target="109.1/-4.9/70.0" url="{node5}" pan="-292.06"/>
+      <hotspot skinid="ht_node" id="Point03" title="Side Balcony" description="" tilt="17.02" target="122.0/-4.4/70.0" url="{node7}" pan="-302.28"/>
+      <hotspot skinid="ht_node" id="Point04" title="Balocny Mid" description="" tilt="23.82" target="128.2/-2.7/70.0" url="{node8}" pan="-250.67"/>
+      <hotspot skinid="ht_node" id="Point05" title="Balcony Right" description="" tilt="37.38" target="168.3/0.4/70.0" url="{node9}" pan="-198.54"/>
+      <hotspot skinid="ht_node" id="Point06" title="Balcony Left" description="" tilt="15.41" target="114.7/-1.8/70.0" url="{node10}" pan="-272.51"/>
+      <hotspot skinid="ht_node" id="Point07" title="Stage Back" description="" tilt="-2.46" target="-179.2/-4.6/70.0" url="{node1}" pan="-7.53"/>
+      <hotspot skinid="ht_node" id="Point08" title="Stage Mid" description="" tilt="-3.58" target="179.4/-1.7/70.0" url="{node2}" pan="-2.44"/>
+      <hotspot skinid="ht_node" id="Point09" title="Stage Front" description="" tilt="-4.72" target="179.3/-0.1/70.0" url="{node3}" pan="-356.68"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" zoomin="0" zoomout="0" zoomspeed="2" zoomfov="20" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" invertwheel="0" contextprojections="0" hideabout="0" simulatemass="1" sensitivity="8" lockedmouse="0" contextfullscreen="1" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" leveltilesize="510" height="1800" width="1800" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level preload="0" height="1800" width="1800" predecode="0"/>
+      <level preload="0" height="900" width="900" predecode="0"/>
+      <level preload="1" height="450" width="450" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-332.16">
+      <start projection="4" fov="70" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovfisheye="360" tilt="90" pan="360" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata comment="" tags="07 - Hall Balcony Left 360" datetime="" title="Side Balcony" description="" source="" longitude="24.74846229" copyright="" author="" info="" customnodeid="" latitude="42.14521925"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundcolor="0xffffff" background="1" enabled="1" height="20" bordercolor="0x000000" backgroundalpha="1" width="180" borderalpha="1" textalpha="1" textcolor="0x000000" wordwrap="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot skinid="ht_node" id="Point01" title="Hall Mid" description="" tilt="-28.74" target="-118.8/-1.7/70.0" url="{node4}" pan="-78.83"/>
+      <hotspot skinid="ht_node" id="Point02" title="Hall Right" description="" tilt="-18.05" target="-127.6/-6.7/70.0" url="{node6}" pan="-66.06"/>
+      <hotspot skinid="ht_node" id="Point03" title="Stage Back" description="" tilt="-15.53" target="-179.4/-4.3/70.0" url="{node1}" pan="-347.45"/>
+      <hotspot skinid="ht_node" id="Point04" title="Stage Mid" description="" tilt="-20.34" target="179.8/-2.8/70.0" url="{node2}" pan="-354.9"/>
+      <hotspot skinid="ht_node" id="Point05" title="Stage Front" description="" tilt="-26.68" target="179.7/1.2/70.0" url="{node3}" pan="-6.88"/>
+      <hotspot skinid="ht_node" id="Point06" title="Balocny Mid" description="" tilt="-3.56" target="-136.2/-10.8/70.0" url="{node8}" pan="-100.02"/>
+      <hotspot skinid="ht_node" id="Point07" title="Balcony Right" description="" tilt="-1.94" target="-112.9/-7.5/70.0" url="{node9}" pan="-80.36"/>
+      <hotspot skinid="ht_node" id="Point08" title="Balcony Left" description="" tilt="-5.02" target="-164.3/-10.3/70.0" url="{node10}" pan="-139.38"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" zoomin="0" zoomout="0" zoomspeed="2" zoomfov="20" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" invertwheel="0" contextprojections="0" hideabout="0" simulatemass="1" sensitivity="8" lockedmouse="0" contextfullscreen="1" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" leveltilesize="510" height="1800" width="1800" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level preload="0" height="1800" width="1800" predecode="0"/>
+      <level preload="0" height="900" width="900" predecode="0"/>
+      <level preload="1" height="450" width="450" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-19">
+      <start projection="4" fov="70" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovfisheye="360" tilt="90" pan="360" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata comment="" tags="08 - Hall Top Balcony Mid 360" datetime="" title="Balocny Mid" description="" source="" longitude="24.74855617" copyright="" author="" info="" customnodeid="" latitude="42.14520433"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundcolor="0xffffff" background="1" enabled="1" height="20" bordercolor="0x000000" backgroundalpha="1" width="180" borderalpha="1" textalpha="1" textcolor="0x000000" wordwrap="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot skinid="ht_node" id="Point01" title="Stage Back" description="" tilt="-11.21" target="-179.3/-5.8/70.0" url="{node1}" pan="-0.44"/>
+      <hotspot skinid="ht_node" id="Point02" title="Stage Mid" description="" tilt="-14.41" target="179.8/-1.2/70.0" url="{node2}" pan="-0.37"/>
+      <hotspot skinid="ht_node" id="Point03" title="Stage Front" description="" tilt="-17.63" target="179.3/-0.2/70.0" url="{node3}" pan="0"/>
+      <hotspot skinid="ht_node" id="Point04" title="Side Balcony" description="" tilt="-1.6" target="104.1/-7.3/70.0" url="{node7}" pan="-315.61"/>
+      <hotspot skinid="ht_node" id="Point05" title="Hall Mid" description="" tilt="-45.72" target="0.0/0.0/70.0" url="{node4}" pan="-0.31"/>
+      <hotspot skinid="ht_node" id="Point06" title="Hall Left" description="" tilt="-32.56" target="46.1/-11.0/70.0" url="{node5}" pan="-315.53"/>
+      <hotspot skinid="ht_node" id="Point07" title="Hall Right" description="" tilt="-32.3" target="-60.4/-2.0/70.0" url="{node6}" pan="-44.76"/>
+      <hotspot skinid="ht_node" id="Point08" title="Balcony Right" description="" tilt="-2.05" target="-100.5/0.1/70.0" url="{node9}" pan="-85.13"/>
+      <hotspot skinid="ht_node" id="Point09" title="Balcony Left" description="" tilt="-0.51" target="111.5/-2.0/70.0" url="{node10}" pan="-276.56"/>
+      <hotspot skinid="ht_node" id="Point10" title="Balcony Top" description="" tilt="19.42" target="-178.6/8.4/70.0" url="{node11}" pan="-181.95"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" zoomin="0" zoomout="0" zoomspeed="2" zoomfov="20" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" invertwheel="0" contextprojections="0" hideabout="0" simulatemass="1" sensitivity="8" lockedmouse="0" contextfullscreen="1" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" leveltilesize="510" height="1800" width="1800" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level preload="0" height="1800" width="1800" predecode="0"/>
+      <level preload="0" height="900" width="900" predecode="0"/>
+      <level preload="1" height="450" width="450" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-42">
+      <start projection="4" fov="70" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovfisheye="360" tilt="90" pan="360" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata comment="" tags="09 - Hall Top Balcony Right 360" datetime="" title="Balcony Right" description="" source="" longitude="24.74860847" copyright="" author="" info="" customnodeid="" latitude="42.14521130"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundcolor="0xffffff" background="1" enabled="1" height="20" bordercolor="0x000000" backgroundalpha="1" width="180" borderalpha="1" textalpha="1" textcolor="0x000000" wordwrap="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot skinid="ht_node" id="Point01" title="Stage Back" description="" tilt="-10.98" target="-179.0/-4.2/70.0" url="{node1}" pan="-4.54"/>
+      <hotspot skinid="ht_node" id="Point02" title="Stage Mid" description="" tilt="-14.04" target="179.7/-0.7/70.0" url="{node2}" pan="-1.37"/>
+      <hotspot skinid="ht_node" id="Point03" title="Stage Front" description="" tilt="-17.28" target="179.3/2.4/70.0" url="{node3}" pan="-357.71"/>
+      <hotspot skinid="ht_node" id="Point04" title="Side Balcony" description="" tilt="-0.23" target="102.6/-5.8/70.0" url="{node7}" pan="-316.74"/>
+      <hotspot skinid="ht_node" id="Point05" title="Hall Mid" description="" tilt="-34.1" target="43.1/-8.1/70.0" url="{node4}" pan="-329.63"/>
+      <hotspot skinid="ht_node" id="Point06" title="Hall Left" description="" tilt="-18.17" target="88.6/-9.1/70.0" url="{node5}" pan="-311.67"/>
+      <hotspot skinid="ht_node" id="Point07" title="Hall Right" description="" tilt="-44.32" target="-8.6/-3.1/70.0" url="{node6}" pan="-18.32"/>
+      <hotspot skinid="ht_node" id="Point08" title="Balocny Mid" description="" tilt="-5.29" target="101.1/-6.4/70.0" url="{node8}" pan="-278.92"/>
+      <hotspot skinid="ht_node" id="Point09" title="Balcony Left" description="" tilt="-1.01" target="110.0/-2.7/70.0" url="{node10}" pan="-288.36"/>
+      <hotspot skinid="ht_node" id="Point10" title="Balcony Top" description="" tilt="12.92" target="154.2/4.8/70.0" url="{node11}" pan="-244.97"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" zoomin="0" zoomout="0" zoomspeed="2" zoomfov="20" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" invertwheel="0" contextprojections="0" hideabout="0" simulatemass="1" sensitivity="8" lockedmouse="0" contextfullscreen="1" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" leveltilesize="510" height="1800" width="1800" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level preload="0" height="1800" width="1800" predecode="0"/>
+      <level preload="0" height="900" width="900" predecode="0"/>
+      <level preload="1" height="450" width="450" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="5">
+      <start projection="4" fov="70" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovfisheye="360" tilt="90" pan="360" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata comment="" tags="10 - Hall Top Balcony Left 360" datetime="" title="Balcony Left" description="" source="" longitude="24.74850119" copyright="" author="" info="" customnodeid="" latitude="42.14519340"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundcolor="0xffffff" background="1" enabled="1" height="20" bordercolor="0x000000" backgroundalpha="1" width="180" borderalpha="1" textalpha="1" textcolor="0x000000" wordwrap="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot skinid="ht_node" id="Point01" title="Stage Back" description="" tilt="-11.71" target="-179.2/-7.7/70.0" url="{node1}" pan="-354.09"/>
+      <hotspot skinid="ht_node" id="Point02" title="Stage Mid" description="" tilt="-14.78" target="179.7/-2.8/70.0" url="{node2}" pan="-357.4"/>
+      <hotspot skinid="ht_node" id="Point03" title="Stage Front" description="" tilt="-18.2" target="179.4/-0.8/70.0" url="{node3}" pan="-0.95"/>
+      <hotspot skinid="ht_node" id="Point04" title="Side Balcony" description="" tilt="-2.81" target="49.8/-4.2/70.0" url="{node7}" pan="-329.61"/>
+      <hotspot skinid="ht_node" id="Point05" title="Hall Mid" description="" tilt="-34.18" target="-39.1/-4.6/70.0" url="{node4}" pan="-32.38"/>
+      <hotspot skinid="ht_node" id="Point06" title="Hall Left" description="" tilt="-45.03" target="6.9/-0.2/70.0" url="{node5}" pan="-343.19"/>
+      <hotspot skinid="ht_node" id="Point07" title="Hall Right" description="" tilt="-20.12" target="-85.3/-3.8/70.0" url="{node6}" pan="-47.63"/>
+      <hotspot skinid="ht_node" id="Point08" title="Balocny Mid" description="" tilt="-3.95" target="-104.3/-10.3/70.0" url="{node8}" pan="-79.94"/>
+      <hotspot skinid="ht_node" id="Point09" title="Balcony Right" description="" tilt="-1.41" target="-108.4/-8.5/70.0" url="{node9}" pan="-71.38"/>
+      <hotspot skinid="ht_node" id="Point10" title="Balcony Top" description="" tilt="13.43" target="-162.8/5.2/70.0" url="{node11}" pan="-115.6"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" zoomin="0" zoomout="0" zoomspeed="2" zoomfov="20" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" invertwheel="0" contextprojections="0" hideabout="0" simulatemass="1" sensitivity="8" lockedmouse="0" contextfullscreen="1" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" leveltilesize="510" height="1800" width="1800" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level preload="0" height="1800" width="1800" predecode="0"/>
+      <level preload="0" height="900" width="900" predecode="0"/>
+      <level preload="1" height="450" width="450" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-19">
+      <start projection="4" fov="70" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovfisheye="360" tilt="90" pan="360" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata comment="" tags="11 - Hall Top Balcony Upper Mid 360" datetime="" title="Balcony Top" description="" source="" longitude="24.74856824" copyright="" author="" info="" customnodeid="" latitude="42.14518146"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundcolor="0xffffff" background="1" enabled="1" height="20" bordercolor="0x000000" backgroundalpha="1" width="180" borderalpha="1" textalpha="1" textcolor="0x000000" wordwrap="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot skinid="ht_node" id="Point01" title="Stage Back" description="" tilt="-13.26" target="-179.0/-1.6/70.0" url="{node1}" pan="-0.31"/>
+      <hotspot skinid="ht_node" id="Point02" title="Stage Mid" description="" tilt="-16.06" target="179.9/1.3/70.0" url="{node2}" pan="-0.31"/>
+      <hotspot skinid="ht_node" id="Point03" title="Stage Front" description="" tilt="-19.4" target="179.4/2.3/70.0" url="{node3}" pan="-0.16"/>
+      <hotspot skinid="ht_node" id="Point04" title="Side Balcony" description="" tilt="-9.59" target="73.9/-6.0/70.0" url="{node7}" pan="-327.99"/>
+      <hotspot skinid="ht_node" id="Point05" title="Balocny Mid" description="" tilt="-28.22" target="-0.4/-24.0/70.0" url="{node8}" pan="718.98"/>
+      <hotspot skinid="ht_node" id="Point06" title="Balcony Right" description="" tilt="-14.32" target="-75.5/-13.1/70.0" url="{node9}" pan="-53.56"/>
+      <hotspot skinid="ht_node" id="Point07" title="Balcony Left" description="" tilt="-15.25" target="91.4/-10.4/70.0" url="{node10}" pan="-306.42"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" zoomin="0" zoomout="0" zoomspeed="2" zoomfov="20" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" invertwheel="0" contextprojections="0" hideabout="0" simulatemass="1" sensitivity="8" lockedmouse="0" contextfullscreen="1" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" tags="" datetime="" title="" description="" source="" longitude="" copyright="" author="" info="" customnodeid="" latitude=""/>
+  </masternode>
+</tour>
