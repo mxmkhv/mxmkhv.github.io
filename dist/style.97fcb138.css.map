@@ -1,1 +1,0 @@
-{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA;EACE;EACA;EACA;;;AAGF;AAAA;EAEE;;;AAGF;EACE","file":"style.97fcb138.css","sourceRoot":"../src","sourcesContent":["* {\n  margin: 0;\n  box-sizing: border-box;\n  padding: 0;\n}\n\nhtml,\nbody {\n  height: 100vh;\n}\n\ncanvas {\n  display: block;\n}\n"]}
