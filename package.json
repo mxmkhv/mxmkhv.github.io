@@ -1,0 +1,19 @@
+{
+  "name": "webxr-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html -d ./docs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.8"
+  },
+  "dependencies": {
+    "three": "^0.121.1"
+  }
+}
